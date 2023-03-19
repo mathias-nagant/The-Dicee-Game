@@ -1,0 +1,128 @@
+     
+     /* Queries */
+
+body {
+
+   background-color: #DA6A00;
+   font-family: 'DM Sans', sans-serif;
+
+}
+
+
+ul {
+
+    list-style: none;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+
+    color: #444444;
+
+}
+
+i {
+
+    padding: 20px 15px;
+
+}
+
+h1 {
+
+    font-weight: bold;
+
+}
+
+.follow:hover {
+
+    color: black;
+
+}
+
+
+     /* heading section */
+
+
+#heading {
+
+    padding: 5% 3%;
+    text-align: center;
+
+}
+
+.intro-text {
+
+    font-size: 5rem;
+
+}
+
+.intro-container {
+
+    padding-left: 50px;
+
+}
+
+.frame-heading {     /* image */
+
+    z-index: -1;
+    height: 370px;
+    width: 800px;
+    padding-bottom: 76px;
+    position: absolute;
+    top: 0px;
+    right: 22%;
+}
+
+
+     /* Dices section */
+
+.hidden {
+
+    position: absolute;
+    align-self: center;
+
+}
+
+
+     /* Footer section */
+
+
+#footer {
+
+    padding: 4% 3% 0 3%;
+
+}
+
+.footer-container {
+
+    text-align: right;
+    padding-bottom: 0px;
+
+}
+
+.ending {
+
+    text-align: center;
+    position: inline-block;
+    font-size: -50%;
+
+}
+
+.footer-icon {
+
+    transform: scale(1.3);
+    
+}
+
+.icon-align {
+
+    padding-right: 20px;
+
+}
